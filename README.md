@@ -1,8 +1,3 @@
-<p align='center'>
-  <a href='#'> <img src="https://github-readme-stats.vercel.app/api?username=Joseph-Caballero&show_icons=true&theme=react&hide=issues,stars" height="150"></a>
-  <a href='#'> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Joseph-Caballero&theme=react" height="150"></a>
-</p>
-
 <h2 align='center'>
 🖥 TECH STACK:
 </h2>
