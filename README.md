@@ -1,19 +1,9 @@
-<h2 align='center'>
-🖥 TECH STACK:
-</h2>
-<div align='center', width='50%'>
-  <img src='https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white' />
-  <img src='https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E' />
-  <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' />
-  <img src='https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white'/>
-  <img src='https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white'/>
-  <img src='https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white' />
-  <img src='https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white' />
-  <img src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white' />
-  <img src='https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white' />
-  <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' />
-  <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' />
-  <img src='https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white' />
-  <img src='https://img.shields.io/badge/Prometheus-E7532D?style=for-the-badge&logo=prometheus&logoColor=white' />
-  <img src='https://img.shields.io/badge/Grafana-F69920?style=for-the-badge&logo=grafana&logoColor=white' />
-</div>
+I’m Joe, I build and operate production web systems.
+
+I've spent the last several years shipping user-facing features that integrate multiple external systems including e-commerce platforms, third-party APIs and data pipelines. I'm particularly interested in how application architecture and data flow choices affect reliability and performance over time.
+
+I'm currently open to full-time software engineering roles focused on frontend, full stack, or backend-leaning work. If you’re working on systems that value reliable and maintainable software, I’d love to connect.
+
+## Books I’m reading
+- TCP/IP Illustrated Volume 1
+- Chip War
