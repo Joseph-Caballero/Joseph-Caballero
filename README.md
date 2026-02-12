@@ -4,4 +4,5 @@ I've spent the last several years shipping user-facing features that integrate m
 
 ## Books I’m reading
 - TCP/IP Illustrated Volume 1
-- Chip War
+- Designing Data-Intensive Applications
+- The Pragmatic Programmer
